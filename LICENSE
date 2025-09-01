@@ -19,3 +19,23 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+--------------------------------------------------
+
+# THIRD-PARTY SOFTWARE NOTICES AND LICENSES
+
+This software incorporates components that are governed by the following licenses:
+
+## RocksDB
+Licensed under Apache License 2.0
+Copyright (c) Facebook, Inc. and its affiliates
+https://github.com/facebook/rocksdb/blob/main/LICENSE.Apache
+
+For a copy of the Apache License 2.0, see: https://www.apache.org/licenses/LICENSE-2.0
+
+## RocksDB.Sharp
+Licensed under Simplified BSD License (BSD 2-Clause)
+Copyright (c) Warren Falk and contributors
+https://github.com/warrenfalk/rocksdb-sharp/blob/master/LICENSE
+
+The use of these components is subject to the terms and conditions of their respective licenses.

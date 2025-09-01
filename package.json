@@ -1,0 +1,16 @@
+{
+    "name": "com.rohjongwon.kinggodgeneraleditorextensionpro",
+    "version": "1.0.0",
+    "description": "Never affects the build, but it can be useful for working in the editor.",
+    "displayName": "KingGodGeneralEditorExtensionPro",
+    "unity": "6000.1",
+    "author":{
+        "name": "JongWon Roh",
+        "email": "mywon1203@gmail.com"
+    },
+    "keywords": [
+        "Editor",
+        "Extension"
+    ],
+    "license": "MIT"
+}
